@@ -12,6 +12,7 @@ A simple inventory management system built using ASP.NET Core Web API, providing
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact Information](#contact-information)
+- [Feedback](#feedback)
 
 ## Features
 
@@ -77,4 +78,29 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Contact Information
 - [GitHub](https://github.com/zajigalich)
 - [LinkedIn](https://www.linkedin.com/in/%D1%82%D0%B8%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE-%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD-6a5ba3269/)
+
+
+## Feedback 
+- Was it easy to complete the task using AI? 
+  
+	Yes, it was easy
+  
+- How long did task take you to complete? (Please be honest, we need it to gather anonymized statistics) 
  
+	About 3-5 hours
+	
+- Was the code ready to run after generation? What did you have to change to make it usable?
+ 
+	No, it wasn't. I had to change test configuration file `CustomWebApplicationFactory`
+
+- Which challenges did you face during completion of the task?
+ 
+	Some explanations of mistakes in generated code lead to GPT repeating simular mistakes
+	
+- Which specific prompts you learned as a good practice to complete the task?
+
+	Starting conversation with description of desired projects and providing acceptence criteria, it's usefull to add: 
+
+	Create a list of tasks with examples of prompts I can ask you for each task to get relevant examples. 
+
+	Thus, it's easy to nagigate beetween all stages of development using provided promts.
