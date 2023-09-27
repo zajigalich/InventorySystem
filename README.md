@@ -67,10 +67,6 @@ To run the test suite, navigate to the `InventorySystem.Tests` directory and run
 dotnet test
 
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any bug fixes, features or improvements.
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
